@@ -1,0 +1,114 @@
+(footprint "Screw Terminal"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.508 4.064 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8cc771a5-e1f7-45c2-96c7-87581689d13f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Screw Terminal"
+		(at 1.524 5.08 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1a1fbb80-b003-4866-908c-17ed6d5ccb55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0ab8699a-9749-42ab-b31c-5bf1d86b9a2f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4e232adf-254d-48e7-8a00-7d1db44e00e9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -10.16 -2.54)
+		(end 9.652 2.54)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "96bcca32-acc5-40f7-9269-2d85241be8db")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 1.524 6.58 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "df40b391-e7f6-4194-8ece-7cae5c888127")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 2.54 0)
+		(size 2.54 2.54)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bfd6e48d-5c15-4351-8593-ff699b2aa029")
+	)
+	(pad "1" thru_hole circle
+		(at 7.62 0)
+		(size 2.54 2.54)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2727926a-d263-4b8d-a8f6-1f3b8463ef21")
+	)
+	(pad "2" thru_hole circle
+		(at -7.62 0)
+		(size 2.54 2.54)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "391a113b-dda0-42bb-a43d-7ffbbfb37d0a")
+	)
+	(pad "2" thru_hole circle
+		(at -2.54 0)
+		(size 2.54 2.54)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "73fc0414-0f46-47c5-88f2-a3a2e226556f")
+	)
+	(embedded_fonts no)
+)
