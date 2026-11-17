@@ -1,0 +1,85 @@
+[
+    {
+        "sheet_name": "Main Sheet",
+        "sheet_path": "C:/Users/iamas/Desktop/LM317-RE/LM317.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "R1",
+                "x_position": 127,
+                "y_position": 59.69,
+                "rotation": 0
+            },
+            {
+                "reference": "C4",
+                "x_position": 118.11,
+                "y_position": 66.04,
+                "rotation": 0
+            },
+            {
+                "reference": "C2",
+                "x_position": 190.5,
+                "y_position": 66.04,
+                "rotation": 0
+            },
+            {
+                "reference": "U1",
+                "x_position": 156.21,
+                "y_position": 54.61,
+                "rotation": 0
+            },
+            {
+                "reference": "D1",
+                "x_position": 127,
+                "y_position": 68.58,
+                "rotation": 90
+            },
+            {
+                "reference": "J1",
+                "x_position": 212.09,
+                "y_position": 67.31,
+                "rotation": 180
+            },
+            {
+                "reference": "C3",
+                "x_position": 138.43,
+                "y_position": 66.04,
+                "rotation": 0
+            },
+            {
+                "reference": "RV1",
+                "x_position": 156.21,
+                "y_position": 69.85,
+                "rotation": 0
+            },
+            {
+                "reference": "J2",
+                "x_position": 101.6,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "R2",
+                "x_position": 167.64,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR01",
+                "x_position": 151.13,
+                "y_position": 78.74,
+                "rotation": 0
+            },
+            {
+                "reference": "C1",
+                "x_position": 179.07,
+                "y_position": 66.04,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    }
+]
